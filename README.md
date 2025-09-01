@@ -24,6 +24,10 @@ and it actually fixes all those problems.
 So the idea here is: can QWERTY be improved by placing symbols the same way
 they are on Real Programmer’s Dvorak? My layout tries exactly that.
 
+**CapsLock** also toggles digit row.
+
+**AltGr** is used to get symbols like ążć...
+
 ## Polish?
 
 Yes, and not only, since now I am studying here, having additional symbols on altgr is convinient. For more info refer to qwerty-seine file.
