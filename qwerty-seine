@@ -3,7 +3,7 @@ xkb_symbols "qwerty-seine" {
 
 	include "latin"
 
-	name[Group1]= "English (Seine)";
+	name[Group1]= "English (Seine QWERTY)";
 
 	key <TLDE> { [ dollar,       asciitilde, dead_grave,      dead_tilde       ] };
 

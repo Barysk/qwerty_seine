@@ -8,7 +8,12 @@ Yeah, Dvorak offers ergonomic advantages, but most software and games defaults
 to QWERTY. For me, sticking with QWERTY ensures maximum compatibility without
 having to constantly remap keys.
 
-## What’s the difference between qwerty-seine and the default one?
+## Why Dvorak?
+
+I decided to add this after I noticed that ```CREATE DATABASE``` is typed fully
+by left hand.
+
+## What’s the difference between seine and the defaults?
 
 After messing around with Programmer’s Dvorak for about a week, I noticed
 something funny: even though I was completely not proficient with it, it still
@@ -32,9 +37,13 @@ they are on Real Programmer’s Dvorak? My layout tries exactly that.
 
 Yes, and not only, since now I am studying here, having additional symbols on altgr is convinient. For more info refer to qwerty-seine file.
 
-## Preview
+## Preview QWERTY
 
-![Preview image](./preview.png)
+![Preview qwerty](./preview_qwerty.png)
+
+## Preview Dvorak
+
+![Preview dvorak](./preview_dvorak.png)
 
 ## Installation
 
@@ -45,10 +54,16 @@ other English keyboards
 
 ```
 <variant>
-    <configItem>
-        <name>qwerty-seine</name>
-        <description>English (Seine)</description>
-    </configItem>
+  <configItem>
+    <name>qwerty-seine</name>
+    <description>English (Seine QWERTY)</description>
+  </configItem>
+</variant>
+<variant>
+  <configItem>
+    <name>dvorak-seine</name>
+    <description>English (Seine Dvorak)</description>
+  </configItem>
 </variant>
 ```
 
