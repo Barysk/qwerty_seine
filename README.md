@@ -39,11 +39,11 @@ Yes, and not only, since now I am studying here, having additional symbols on al
 
 ## Preview QWERTY
 
-![Preview qwerty](./preview_qwerty.png)
+![Preview qwerty](./img/preview_qwerty.png)
 
 ## Preview Dvorak
 
-![Preview dvorak](./preview_dvorak.png)
+![Preview dvorak](./img/preview_dvorak.png)
 
 ## Installation
 

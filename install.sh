@@ -10,12 +10,12 @@ ________________________________________________________________________________
 mkdir -p "$HOME/.config/xkb/symbols"
 
 # Comment this out if you don't want qwerty variant
-if cp ./qwerty-seine "$HOME/.config/xkb/symbols/qwerty-seine"; then
+if cp ./layouts/qwerty-seine "$HOME/.config/xkb/symbols/qwerty-seine"; then
 	echo "QWERTY variant installed"
 fi
 
 # Comment this out if you don't want dvorak variant
-if cp ./dvorak-seine "$HOME/.config/xkb/symbols/dvorak-seine"; then
+if cp ./layouts/dvorak-seine "$HOME/.config/xkb/symbols/dvorak-seine"; then
 	echo "Dvorak variant installed"
 fi
 
